@@ -1,0 +1,6 @@
+com\mycompany\deskserver\ClientHandler.class
+com\mycompany\deskserver\Directory.class
+com\mycompany\deskserver\Messanger.class
+com\mycompany\deskserver\Main.class
+com\mycompany\deskserver\Server.class
+com\mycompany\deskserver\FileManager.class

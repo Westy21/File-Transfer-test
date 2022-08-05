@@ -1,0 +1,6 @@
+com\mycompany\fileoversocket\ClientHandler.class
+com\mycompany\fileoversocket\MainServer.class
+com\mycompany\fileoversocket\Client.class
+com\mycompany\fileoversocket\FileData.class
+com\mycompany\fileoversocket\Server.class
+com\mycompany\fileoversocket\MainClient.class
